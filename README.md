@@ -5,25 +5,25 @@ This is a collection of links to online resources to help parents create an impr
 Pull requests are encouraged.  Please do not include affiliate links (they will be rejected) and please add **[Paid]** if the service requires payment (or eventual payment).
 
 ## Online Education for Younger Kids
-* [ABC Mouse](https://www.abcmouse.com) [Paid]
-* [Brain Pop Jr.](https://jr.brainpop.com/) [Paid]
-* [Beanstalk](https://beanstalk.co/) [Paid]
+* [ABC Mouse](https://www.abcmouse.com) **[Paid]**
+* [Brain Pop Jr.](https://jr.brainpop.com/) **[Paid]**
+* [Beanstalk](https://beanstalk.co/) **[Paid]**
 
 ## Educational Apps for Younger Kids
 * [Martha Speaks](https://pbskids.org/martha/mobile/index.html)
-* [Bugs and Buttons](https://apps.apple.com/us/app/bugs-and-buttons/id446031868) [Paid]
-* [Monkey Preschool](http://monkeypreschool.com/) [Paid]
-* [TeachMe: Kindergarten](https://www.commonsensemedia.org/app-reviews/teachme-kindergarten) [Paid]
+* [Bugs and Buttons](https://apps.apple.com/us/app/bugs-and-buttons/id446031868) **[Paid]**
+* [Monkey Preschool](http://monkeypreschool.com/) **[Paid]**
+* [TeachMe: Kindergarten](https://www.commonsensemedia.org/app-reviews/teachme-kindergarten) **[Paid]**
   
 ## Online Education for Older Kids
 * [Big History Project](https://school.bighistoryproject.com/bhplive)
-* [Brain Pop](https://www.brainpop.com/) [Paid
+* [Brain Pop](https://www.brainpop.com/) **[Paid]**
 
 ## Digital Libraries for Kids
-* [Get Epic](https://www.getepic.com) [Paid]
+* [Get Epic](https://www.getepic.com) **[Paid]**
 
 ## Exercise & Physical Education 
-* [GoNoodle](https://www.gonoodle.com/) [Paid]
+* [GoNoodle](https://www.gonoodle.com/) **[Paid]**
 
 ## Educational Videos and YouTube Channels
 * [Odd Squad](https://pbskids.org/oddsquad/)
