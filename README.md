@@ -6,9 +6,9 @@ Pull requests are encouraged.  Please do not include affiliate links (they will 
 
 ## Online Education for All Ages
 * [Kahn Academy](https://www.khanacademy.org/)
+* [Mystery Doug](https://mysterydoug.com/) &#x1F4B5;
 
 ## Online Education for Younger Kids
-* [ABC Mouse](https://www.abcmouse.com) &#x1F4B5;
 * [Brain Pop Jr.](https://jr.brainpop.com/) &#x1F4B5;
 * [Beanstalk](https://beanstalk.co/) &#x1F4B5;
 
