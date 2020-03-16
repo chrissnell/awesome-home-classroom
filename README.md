@@ -37,4 +37,4 @@
 * [Van Gogh Museum, Amsterdam](https://artsandculture.google.com/partner/van-gogh-museum?hl=en)
 
 ## General Educational Help
-* [A Suggested Schedule for Home Schooling](/blob/master/images/daily-schedule.jpg)
+* [A Suggested Schedule for Home Schooling](/images/daily-schedule.jpg)
