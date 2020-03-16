@@ -2,31 +2,31 @@
 
 ## About 
 This is a collection of links to online resources to help parents create an improvised home classroom during the COVID-19 quarantine.
-Pull requests are encouraged.  Please do not include affiliate links (they will be rejected) and please add **[Paid]** if the service requires payment (or eventual payment).
+Pull requests are encouraged.  Please do not include affiliate links (they will be rejected) and please add &#x1F4B5; if the service requires payment (or eventual payment).
 
 ## Online Education for All Ages
 * [Kahn Academy](https://www.khanacademy.org/)
 
 ## Online Education for Younger Kids
-* [ABC Mouse](https://www.abcmouse.com) **[Paid]**
-* [Brain Pop Jr.](https://jr.brainpop.com/) **[Paid]**
-* [Beanstalk](https://beanstalk.co/) **[Paid]**
+* [ABC Mouse](https://www.abcmouse.com) &#x1F4B5;
+* [Brain Pop Jr.](https://jr.brainpop.com/) &#x1F4B5;
+* [Beanstalk](https://beanstalk.co/) &#x1F4B5;
 
 ## Educational Apps for Younger Kids
 * [Martha Speaks](https://pbskids.org/martha/mobile/index.html)
-* [Bugs and Buttons](https://apps.apple.com/us/app/bugs-and-buttons/id446031868) **[Paid]**
-* [Monkey Preschool](http://monkeypreschool.com/) **[Paid]**
-* [TeachMe: Kindergarten](https://www.commonsensemedia.org/app-reviews/teachme-kindergarten) **[Paid]**
+* [Bugs and Buttons](https://apps.apple.com/us/app/bugs-and-buttons/id446031868) &#x1F4B5;
+* [Monkey Preschool](http://monkeypreschool.com/) &#x1F4B5;
+* [TeachMe: Kindergarten](https://www.commonsensemedia.org/app-reviews/teachme-kindergarten) &#x1F4B5;
   
 ## Online Education for Older Kids
 * [Big History Project](https://school.bighistoryproject.com/bhplive)
-* [Brain Pop](https://www.brainpop.com/) **[Paid]**
+* [Brain Pop](https://www.brainpop.com/) &#x1F4B5;
 
 ## Digital Libraries for Kids
-* [Get Epic](https://www.getepic.com) **[Paid]**
+* [Get Epic](https://www.getepic.com) &#x1F4B5;
 
 ## Exercise & Physical Education 
-* [GoNoodle](https://www.gonoodle.com/) **[Paid]**
+* [GoNoodle](https://www.gonoodle.com/) &#x1F4B5;
 
 ## Educational Videos and YouTube Channels
 * [Odd Squad](https://pbskids.org/oddsquad/)
