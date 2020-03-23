@@ -5,7 +5,7 @@ This is a collection of links to online resources to help parents create an impr
 Pull requests are encouraged.  Please do not include affiliate links (they will be rejected) and please add &#x1F4B5; if the service requires payment (or eventual payment).
 
 ## Online Education for All Ages
-* [Kahn Academy](https://www.khanacademy.org/)
+* [Khan Academy](https://www.khanacademy.org/)
 * [Mystery Doug](https://mysterydoug.com/) &#x1F4B5;
 * [Scratch.org by MIT](https://scratch.mit.edu/)
 
